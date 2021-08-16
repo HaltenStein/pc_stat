@@ -86,8 +86,3 @@ if __name__ == '__main__':
     # start loop bot
     print('bot start')
     bot.polling()
-
-
-
-
-#'1505827397:AAEEw_UILZkOetyCMVssDRz-S5iz6cKyLas'
