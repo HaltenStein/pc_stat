@@ -26,7 +26,6 @@ class CreateBot:
                     else:  
                         server_port = int(input("Enter server port: "))
                         server = (server_ip, server_port)
-
                         return client, server, host
 
                 print("Input error server ip")
